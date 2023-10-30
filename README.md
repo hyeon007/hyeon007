@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Lee Min Seok 👋
   
 - 🌱 I’m currently learning ...
   

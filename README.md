@@ -1,4 +1,4 @@
-### Hi I'm Lee Min Seok 👋
+# Hi I'm Lee Min Seok 👋
 
 ### About me
 - 🔭 **I’m Studying Cloud**

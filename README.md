@@ -7,7 +7,6 @@
   
 - 💬 **Ask me about Cloud and Programming**
   
-- 📫 **How to reach me https://open.kakao.com/me/ghyeon**
 
 ### Learning
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -20,4 +19,3 @@
 
 ### Social
 <a href="https://www.instagram.com/g.hyeon_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g.hyeon_07/"/></a>
-<a href="https://open.kakao.com/me/ghyeon"><img src="https://img.shields.io/badge/KakaoTalk-FFD700?style=flat-square&logo=Kakaotalk&logoColor=white&link=https://www.instagram.com/g.hyeon_07/"/></a>

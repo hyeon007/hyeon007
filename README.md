@@ -1,19 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hyeon&color=00ffff)
-
 <div align="center">
-  **👋 Hello My Github Profile !**
-</div>
+ 
+### 👋 Hello My Github Profile !
 
-About me
-- 🔭 **I’m Studying Cloud**
-
-- 🌱 **I’m currently learning cloud**
-  
-- 💬 **Ask me about Cloud and Programming**
-  
-
-### Learning
+ <br/>
+ <br/>
+ 
+### 📋 Learning
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -24,3 +18,4 @@ About me
 
 ### Social
 <a href="https://www.instagram.com/g.hyeon_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g.hyeon_07/"/></a>
+</div>

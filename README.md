@@ -18,11 +18,7 @@
 <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
  <br/>
- 
-### Social
-<a href="https://www.instagram.com/g.hyeon_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g.hyeon_07/"/></a>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div>
 
 </div>
+
+

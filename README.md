@@ -2,9 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hyeon&color=00ffff)
 
 <div align="center">
-  Hello My Github Profile !
+  **👋 Hello My Github Profile !**
 </div>
-### About me
+
+About me
 - 🔭 **I’m Studying Cloud**
 
 - 🌱 **I’m currently learning cloud**
